@@ -1,4 +1,4 @@
-# <Horiseon>
+# Horiseon
 
 ## Description
 
@@ -41,7 +41,6 @@ Repository contains multiple descriptive commit messages.
 
 Repository contains a quality README file with description, screenshot, and link to deployed application.
 
-
 <!-- ## Table of Contents (Optional)
 
 If your README is long, add a table of contents to make it easy for users to find what they need.
@@ -69,7 +68,6 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 Assignment:
 https://courses.bootcampspot.com/courses/2865/assignments/46237?module_item_id=854112
-
 
 /*
 List your collaborators, if any, with links to their GitHub profiles.
