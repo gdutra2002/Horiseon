@@ -41,6 +41,9 @@
       margin-left: 25px;
   }
   
+/* The .header selectors and declarations I would like to consolidate more.  
+This is an aspect I would like to get some help on how to do efficient and effectivly. */
+
   a {
       color: #ffffff;
       text-decoration: none;
@@ -59,6 +62,9 @@
       background-position: center;
   } 
   
+
+  /* The .hero and .content declarations were simplified.
+  They were mostly straghtforward, with a few quirks. */
   .content {
       width: 75%;
       display: inline-block;
@@ -93,6 +99,9 @@
       font-size: 36px;
   }
   
+/* The .float was relocated, as well as many of the .content and .benefits to be more
+respective of organization and their appearence in the .html code. */
+
   .benefits {
       margin-right: 20px;
       padding: 20px;
@@ -130,4 +139,4 @@
   .footer h2 {
       font-size: 20px;
   }
-  
+  /* Overall, CSS was consolidated with gain of functionality. */
