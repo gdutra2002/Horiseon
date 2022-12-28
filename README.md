@@ -9,7 +9,9 @@
 - What problem does it solve?
 - What did you learn? -->
 
-Assignment description:
+The Horiseon company is an theoretical information technology company founded in 2019, based in Northern California.  As of Winter 2022, Horiseon specalizes in Social Media Marketing, Online Reputation Management, and Search Engine Optimazation statagies for the global business market. A proof of concept page design, contact information thru github to inquire on your next project.
+
+<!-- Assignment description:
 Technical Acceptance Criteria: 40%
 Satisfies all of the preceding acceptance criteria plus the following code improvements:
 
@@ -39,7 +41,9 @@ Repository follows best practices for class/id naming conventions, indentation, 
 
 Repository contains multiple descriptive commit messages.
 
-Repository contains a quality README file with description, screenshot, and link to deployed application.
+Repository contains a quality README file with description, screenshot, and link to deployed application. -->
+
+
 
 <!-- ## Table of Contents (Optional)
 
@@ -52,7 +56,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-N/A
+https://gdutra2002.github.io/Horiseon/
 
 ## Usage
 
@@ -64,22 +68,23 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ![alt text](assets/images/screenshot.png) -->
 
+Mobile Phone Screenshot (./assets/images/screenshotHori.png)
+
 ## Credits
 
 Assignment:
 https://courses.bootcampspot.com/courses/2865/assignments/46237?module_item_id=854112
 
-/*
-List your collaborators, if any, with links to their GitHub profiles.
+<!-- List your collaborators, if any, with links to their GitHub profiles.
 
 If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
 
-If you followed tutorials, include links to those here as well.
-*/
+If you followed tutorials, include links to those here as well. -->
+
 
 ## License
 
-Refer to the LICENSE in the repo.
+Refer to the MIT LICENSE in the repo.
 
 <!-- ---
 
