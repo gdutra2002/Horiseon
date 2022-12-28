@@ -68,7 +68,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ![alt text](assets/images/screenshot.png) -->
 
-[Mobile Phone Screenshot](assets/images/screenshotHori.png)
+[Mobile Phone Screenshot](assets/images/ScreenshotHori.png)
 
 ## Credits
 
